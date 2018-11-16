@@ -1,0 +1,13 @@
+{
+   "background": {
+      "page": "background.html"
+   },
+   "browser_action": {
+      "default_popup": "popup.html"
+   },
+   "description": "BY chaoGe Abraham",
+   "manifest_version": 2,
+   "name": "email souji",
+   "permissions": [ "tabs", "activeTab", "storage",	"http://*/" ],
+   "version": "1.0"
+}
